@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://liaopengdong.github.io/student-math-tools/sitemap.xml
